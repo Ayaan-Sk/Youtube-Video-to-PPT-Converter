@@ -1,6 +1,8 @@
 
 # YouTube Video to PPT Converter Using Python 🎥➡️📊
 
+![YputubeToPPT Banner](https://github.com/Ayaan-Sk/Youtube-Video-to-PPT-Converter/blob/0fef14fd9ff5f11b7f6d01fa79d77feec54a2567/WhatsApp%20Image%202025-05-16%20at%2023.26.09_5d2d1e4c.jpg)
+
 ## 🚀 Project Overview
 
 **YouTube Video to PPT Converter** is a Python-based tool that automates the process of converting YouTube videos into PowerPoint presentations. It extracts the video's transcript or audio, summarizes the content, and generates presentation slides with key points, optionally including visual frames from the video. This tool is designed to help educators, content creators, and students quickly transform video content into structured, offline-readable presentation material.
